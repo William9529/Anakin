@@ -1,0 +1,85 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 200px;
+  margin-right:200px;
+  
+ 
+  
+}
+img{
+  width: 1000px;
+  align: "middle";
+}
+h1, h2, h3{
+  font-family: 'Tektur', cursive;
+  margin-left: 200px;
+  color: red
+}
+p, ul{
+  font-family: 'Ysabeau SC', sans-serif;
+
+  color: black;
+  margin-left: 200px;
+  
+ }
+h4{
+  font-family: 'VT323', monospace;
+  font-size: 15px;
+  margin-left: 200px
+  
+}
+.image{
+  position: relative;
+  text-align: center;
+}
+.intro{
+  position: relative;
+  bottom: 190px;
+  left: 0px;
+  font-size: 25px
+}
+.section1{
+  display: flex,
+  width: 1000px;
+  justify-content: center;
+  align-items: center;
+  
+  
+   
+}
+.quote {
+  background: black;
+  color: orange;
+  font-family: 'Tektur', cursive;
+  width: 700px;
+  height: 150px;
+  text-align: center;
+  margin: auto;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+mark{
+  color: orange;
+  background: black;
+   
+}
+img{
+  margin-bottom: 0
+}
+.head{
+  background: black;
+  color: orange;
+  width: 1000px;
+  height: 50px;
+  text-align: center;
+  font-size: 30px;
+}
+a{
+  padding: 50px;
+  
+}
